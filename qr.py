@@ -1,3 +1,4 @@
+#It basically scans the qr code and try to retrive data from it 
 import cv2
 import numpy as np
 from pyzbar.pyzbar import decode
